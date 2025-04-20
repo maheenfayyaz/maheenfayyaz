@@ -1,7 +1,7 @@
 <img align="center" src="https://xclcamps.com/wp-content/uploads/coding-difference-1.jpg">
 
 <h1 align="center">Hi 👋, I'm Maheen Fayyaz</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate Mern Stack Developer from Pakistan</h3>
 
 <p align="center" dir="auto">
 <a href="https://github.com/Umra-Badar20"><img src="https://readme-typing-svg.herokuapp.com/?lines=WEB%20-%20Developer;Coding-Enthusiast%20;Self-Learner;and;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=0844a3&vCenter=true&size=22"></a>
